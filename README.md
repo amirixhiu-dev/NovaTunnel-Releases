@@ -4,8 +4,6 @@
   <img src="novatunnel-logo.png" width="190" alt="NovaTunnel Logo">
 </a>
 
-# NovaTunnel
-
 ### Fast. Simple. Private.
 
 **Official release & distribution repository for NovaTunnel VPN**
@@ -374,7 +372,6 @@ Android is currently the active development target, while Windows, iOS, macOS, a
 <div align="center">
 
 <img src="novatunnel-logo.png" width="96" alt="NovaTunnel Logo">
-
 ## NovaTunnel
 
 **Secure connections. Simple experience.**
