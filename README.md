@@ -372,7 +372,6 @@ Android is currently the active development target, while Windows, iOS, macOS, a
 <div align="center">
 
 <img src="novatunnel-logo.png" width="96" alt="NovaTunnel Logo">
-## NovaTunnel
 
 **Secure connections. Simple experience.**
 
