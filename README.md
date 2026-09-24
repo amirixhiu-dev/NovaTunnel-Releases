@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://nova-bot.de5.net/">
-    <img src="novatunnel-poster.jpg" width="100%" alt="NovaTunnel VPN Poster">
+    <img src="novatunnel-poster.jpg" width="780" alt="NovaTunnel VPN Poster">
   </a>
 </p>
 
@@ -53,7 +53,7 @@ This repository is the **official public distribution hub** for NovaTunnel relea
 > The NovaTunnel application source code, backend services, infrastructure, deployment configuration, and internal development tooling are maintained separately and are not included here.
 
 <p align="center">
-  <img src="novatunnel-brand-card.png" width="680" alt="NovaTunnel Brand">
+  <img src="novatunnel-brand-card.png" width="360" alt="NovaTunnel Brand">
 </p>
 
 ---
