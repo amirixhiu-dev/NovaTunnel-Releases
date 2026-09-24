@@ -1,10 +1,10 @@
 # NovaTunnel Releases
 
-Official release repository for **NovaTunnel VPN**.
+Official release page for **NovaTunnel VPN**.
 
-This repository is used only for distributing official NovaTunnel application releases and release notes.
+This repository hosts official release files and release notes. The application source code is maintained separately and is not included here.
 
-## Platforms
+## Platform status
 
 | Platform | Status |
 | --- | --- |
@@ -16,30 +16,30 @@ This repository is used only for distributing official NovaTunnel application re
 
 ## Downloads
 
-Official release files will appear in the **Releases** section of this repository when they are ready for public distribution.
+There are currently no public production releases.
 
-> No production release is currently available.
+When a release is ready, its files and release notes will be published in this repository’s **Releases** section. Until then, no APK or other build from this repository should be treated as a production release.
 
-Do not download NovaTunnel builds from unofficial sources.
+Download NovaTunnel only from the official channels listed below. Avoid builds from unofficial sources.
 
-## Official Links
+## Official links
 
-- Website: https://nova-bot.de5.net
-- Telegram Bot: https://t.me/NovaTunnel_VPNBot
-- Support: https://t.me/USAkings
+- Website: [novatunnel.app](https://novatunnel.app)
+- Telegram bot: [@NovaTunnel_VPNBot](https://t.me/NovaTunnel_VPNBot)
+- Support: [@USAkings](https://t.me/USAkings)
 
-## Security
+## Download verification
 
-Official release assets may include SHA-256 checksums so users can verify file integrity.
+Some releases may include a SHA-256 checksum. When one is provided, compare it with the downloaded file to check that the file has not changed.
 
-Debug builds, Android instrumentation test APKs, internal development builds, and unsigned artifacts are not intended for public distribution.
+A checksum alone does not prove who published a file. Download release assets only from this repository’s official **Releases** section.
 
-## Source Code
+Debug builds, instrumentation test APKs, internal development builds, and unsigned artifacts are not intended for public distribution.
 
-This repository is used for release binaries only.
+## Source code
 
-The NovaTunnel application source code is not distributed through this repository.
+This repository is for release distribution. The NovaTunnel application source code is maintained separately.
 
-## License / Distribution
+## Redistribution
 
-NovaTunnel release files may only be distributed through official NovaTunnel channels unless otherwise stated.
+Do not redistribute or mirror NovaTunnel release files unless the release notes explicitly allow it or you have written permission.
