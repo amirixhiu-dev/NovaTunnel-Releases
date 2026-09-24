@@ -1,33 +1,58 @@
 <div align="center">
 
-# 🛡️ NovaTunnel
+<a href="https://nova-bot.de5.net/">
+  <img src="assets/novatunnel-logo.png" width="180" alt="NovaTunnel Logo">
+</a>
+
+# NovaTunnel
 
 ### Fast. Simple. Private.
 
-**Official release repository for NovaTunnel VPN**
+**Official release & distribution repository for NovaTunnel VPN**
 
-[![Website](https://img.shields.io/badge/Website-nova--bot.de5.net-00BFFF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://nova-bot.de5.net/)
-[![Telegram](https://img.shields.io/badge/Telegram-@NovaTunnel__VPNBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NovaTunnel_VPNBot)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#platform-status)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](#project-status)
+<p>
+  <a href="https://nova-bot.de5.net/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-NovaTunnel-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://t.me/NovaTunnel_VPNBot">
+    <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram-@NovaTunnel__VPNBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="../../releases">
+    <img alt="GitHub Releases" src="https://img.shields.io/badge/Releases-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-In%20Development-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-Planned-0078D4?style=flat-square&logo=windows11&logoColor=white">
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-Planned-black?style=flat-square&logo=apple&logoColor=white">
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-Planned-black?style=flat-square&logo=apple&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-Planned-FCC624?style=flat-square&logo=linux&logoColor=black">
+</p>
+
+**Official downloads · Release notes · Checksums · Update information**
+
+</div>
 
 <br>
 
-**Official downloads • Release notes • Checksums • Update information**
-
-</div>
+<p align="center">
+  <a href="https://nova-bot.de5.net/">
+    <img src="assets/novatunnel-banner.png" width="720" alt="NovaTunnel VPN">
+  </a>
+</p>
 
 ---
 
 ## ✨ About NovaTunnel
 
-**NovaTunnel** is a multi-platform VPN project focused on delivering a clean, reliable, and easy-to-use connection experience.
+**NovaTunnel** is a multi-platform VPN project focused on providing a clean, reliable, and easy-to-use connection experience.
 
-This repository is the **official distribution hub** for NovaTunnel release files and release notes.
+This repository is the **official public distribution hub** for NovaTunnel release files, release notes, checksums, and update information.
 
 > [!IMPORTANT]
 > This repository contains **release artifacts only**.  
-> The NovaTunnel application source code and backend infrastructure are maintained separately and are not included in this repository.
+> The NovaTunnel application source code, backend services, infrastructure, deployment configuration, and internal development tooling are maintained separately and are not included here.
 
 ---
 
@@ -35,15 +60,15 @@ This repository is the **official distribution hub** for NovaTunnel release file
 
 NovaTunnel is currently under active development.
 
-There are **no public production releases yet**.
+### There are no public production releases yet.
 
-Development, test, debug, instrumentation, unsigned, and internal builds must **not** be considered production releases.
+Development, test, debug, instrumentation, unsigned, and internal builds must **not** be treated as production releases.
 
-When the first public version is ready, it will be published through the official GitHub **Releases** section.
+When the first public version is ready, it will be published through this repository's official **Releases** section.
 
-### Platform status
+### Platform Status
 
-| Platform | Status | Public Release |
+| Platform | Development Status | Public Release |
 |:---:|:---:|:---:|
 | 🤖 **Android** | 🟡 In Development | Not available yet |
 | 🪟 **Windows** | ⚪ Planned | Not available yet |
@@ -55,47 +80,64 @@ When the first public version is ready, it will be published through the officia
 
 ## 📥 Download NovaTunnel
 
+<div align="center">
+
 ### 🚧 No production build is available yet
 
-NovaTunnel has not reached its first public production release.
+<a href="../../releases">
+  <img src="https://img.shields.io/badge/OPEN_GITHUB_RELEASES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub Releases">
+</a>
 
-Once a production version is available, you will be able to download it from:
+</div>
 
-➡️ **[GitHub Releases](../../releases)**
-
-Release assets will be published together with:
+Once a production release becomes available, release assets will be published with information such as:
 
 - Application version
 - Build number
 - Release date
 - Changelog
-- Platform information
-- File size
+- Target platform
+- File name and size
 - SHA-256 checksum when available
-- Important upgrade notes when required
+- Upgrade or migration notes when required
+- Known issues when applicable
 
 > [!WARNING]
-> Do **not** install APKs or NovaTunnel builds downloaded from random websites, Telegram channels, file-sharing services, unofficial mirrors, or third-party repositories.
+> Do **not** install NovaTunnel builds downloaded from random websites, unofficial Telegram channels, file-sharing services, unofficial mirrors, or third-party repositories.
 
 ---
 
 ## 🔐 Official Download Policy
 
-A file should only be considered an **official NovaTunnel release** when it is published through one of the official distribution channels documented in this repository.
+A file should only be considered an **official NovaTunnel release** when it can be traced to one of the official distribution channels documented in this repository.
 
-The primary release source is:
+### Primary release source
 
-### GitHub Releases
-
-**NovaTunnel-Releases**
+**GitHub Releases**
 
 ```text
 https://github.com/amirxhiu-dev/NovaTunnel-Releases/releases
 ```
 
-Additional official download methods may be announced through the NovaTunnel website or Telegram bot.
+Additional official download methods may be announced through the NovaTunnel website or official Telegram bot.
 
 If a build cannot be traced back to an official NovaTunnel channel, treat it as **untrusted**.
+
+---
+
+## 🌐 Official Channels
+
+| Service | Official Link |
+| --- | --- |
+| 🌐 **Website** | [nova-bot.de5.net](https://nova-bot.de5.net/) |
+| 🤖 **Telegram Bot** | [@NovaTunnel_VPNBot](https://t.me/NovaTunnel_VPNBot) |
+| 💬 **Support** | [@USAkings](https://t.me/USAkings) |
+| 📦 **GitHub Releases** | [NovaTunnel-Releases](../../releases) |
+
+> [!CAUTION]
+> Be careful with websites, channels, accounts, repositories, or files impersonating NovaTunnel.
+>
+> Never provide passwords, recovery codes, private keys, payment credentials, or other sensitive information to unofficial accounts.
 
 ---
 
@@ -103,15 +145,15 @@ If a build cannot be traced back to an official NovaTunnel channel, treat it as 
 
 Some NovaTunnel releases may include a **SHA-256 checksum**.
 
-A checksum lets you verify that the downloaded file has not been modified or corrupted.
+SHA-256 can be used to verify that the downloaded file matches the file published with the release.
 
-### Windows
+### Windows — PowerShell
 
 ```powershell
 Get-FileHash .\NovaTunnel.apk -Algorithm SHA256
 ```
 
-or:
+### Windows — Command Prompt
 
 ```cmd
 certutil -hashfile NovaTunnel.apk SHA256
@@ -129,7 +171,7 @@ sha256sum NovaTunnel.apk
 shasum -a 256 NovaTunnel.apk
 ```
 
-Compare the result with the SHA-256 value published in the corresponding GitHub Release.
+Compare the calculated value with the SHA-256 checksum published in the corresponding GitHub Release.
 
 Example:
 
@@ -144,15 +186,15 @@ MATCH ✅
 ```
 
 > [!NOTE]
-> A matching checksum confirms **file integrity**, but a checksum by itself does not establish who originally published a file.
+> A matching checksum confirms **file integrity**.
 >
-> Always obtain the expected checksum and the release asset from an official NovaTunnel channel.
+> A checksum alone does not prove who originally published a file. Always obtain both the release asset and the expected checksum from an official NovaTunnel source.
 
 ---
 
 ## 🚫 Builds That Are Not Public Releases
 
-The following files are **not intended for public distribution** unless explicitly attached to an official GitHub Release:
+The following types of files are **not intended for public distribution** unless explicitly attached to an official GitHub Release:
 
 ```text
 app-debug.apk
@@ -165,7 +207,7 @@ development snapshots
 temporary CI artifacts
 ```
 
-Their presence anywhere does **not** mean that a new NovaTunnel version has been officially released.
+Their presence anywhere does **not** mean that a new NovaTunnel production version has been released.
 
 ---
 
@@ -175,7 +217,7 @@ NovaTunnel may use different release stages during development.
 
 | Channel | Purpose |
 | --- | --- |
-| 🟢 **Stable** | Recommended production release |
+| 🟢 **Stable** | Production release intended for normal users |
 | 🟡 **Beta** | Public testing before stable release |
 | 🧪 **Development / Internal** | Engineering and internal testing only |
 
@@ -185,7 +227,7 @@ Unless a release is explicitly marked otherwise, users should prefer the latest 
 
 ## 📝 Release Notes
 
-Every production release will include a changelog describing relevant changes, such as:
+Production releases may include information such as:
 
 ```text
 ✨ New features
@@ -194,48 +236,32 @@ Every production release will include a changelog describing relevant changes, s
 🌐 Connection improvements
 🐛 Bug fixes
 🎨 UI/UX improvements
-🔧 Internal reliability changes
+🔧 Reliability improvements
 ```
 
-Breaking changes, migration requirements, or known issues will be clearly noted when applicable.
+Breaking changes, migration requirements, compatibility notes, or known issues will be documented when applicable.
 
 ---
 
-## 🔄 Updates
+## 🔄 Update Distribution
 
-NovaTunnel's release infrastructure is designed so that version information can be distributed across the official NovaTunnel services.
+NovaTunnel's release infrastructure is designed so that public version information can be distributed across official NovaTunnel services.
 
 When a new public release becomes available, information may also appear through:
 
 - 🌐 NovaTunnel website
-- 🤖 Telegram bot
+- 🤖 NovaTunnel Telegram bot
 - 🐙 GitHub Releases
 
-Always verify that the version and download source correspond to an official NovaTunnel release.
-
----
-
-## 🌐 Official Links
-
-| Service | Official Link |
-| --- | --- |
-| 🌐 **Website** | [nova-bot.de5.net](https://nova-bot.de5.net/) |
-| 🤖 **Telegram Bot** | [@NovaTunnel_VPNBot](https://t.me/NovaTunnel_VPNBot) |
-| 💬 **Support** | [@USAkings](https://t.me/USAkings) |
-| 📦 **GitHub Releases** | [NovaTunnel-Releases](../../releases) |
-
-> [!CAUTION]
-> Be careful with accounts, websites, channels, or repositories impersonating NovaTunnel.
->
-> Never provide passwords, recovery codes, private keys, payment information, or other sensitive credentials to unofficial accounts.
+Always verify that the version number, file name, and download source correspond to an official NovaTunnel release.
 
 ---
 
 ## 🧩 Repository Purpose
 
-This repository is intentionally focused on **distribution**.
+This repository is intentionally focused on **release distribution**.
 
-Its purpose is to provide:
+It may contain:
 
 - Official release binaries
 - Version history
@@ -250,9 +276,18 @@ It is **not** the primary source-code repository for NovaTunnel.
 
 ## 💻 Source Code
 
-NovaTunnel's application source code, backend services, deployment configuration, infrastructure, internal tooling, and development environments are maintained separately.
+NovaTunnel's application source code and internal infrastructure are maintained separately.
 
-Their absence from this repository should not be interpreted as missing release files.
+This includes components such as:
+
+- Application source code
+- Backend services
+- Deployment configuration
+- Infrastructure
+- Internal automation
+- Development tooling
+
+Their absence from this repository does not indicate missing release files.
 
 This repository exists specifically as the public release and distribution endpoint.
 
@@ -260,19 +295,15 @@ This repository exists specifically as the public release and distribution endpo
 
 ## 🗺️ Roadmap
 
-Current high-level direction:
+Current high-level platform direction:
 
 ```text
 NovaTunnel
 │
 ├── Android        🟡 In development
-│
 ├── Windows        ⚪ Planned
-│
 ├── iOS            ⚪ Planned
-│
 ├── macOS          ⚪ Planned
-│
 └── Linux          ⚪ Planned
 ```
 
@@ -282,9 +313,9 @@ Platform availability and priorities may change as development progresses.
 
 ## 🛡️ Security
 
-If you discover a security issue related to NovaTunnel, avoid publishing sensitive technical details, credentials, tokens, private endpoints, or exploit information in a public GitHub issue.
+If you discover a security issue related to NovaTunnel, avoid publishing credentials, access tokens, private endpoints, private keys, exploit details, or other sensitive information in a public GitHub issue.
 
-Contact the project through an official support channel instead:
+Please contact the project through an official support channel:
 
 **Telegram:** [@USAkings](https://t.me/USAkings)
 
@@ -292,12 +323,12 @@ Contact the project through an official support channel instead:
 
 ## 🔁 Redistribution
 
-NovaTunnel release files must not be redistributed, repackaged, re-uploaded, modified, or mirrored unless:
+NovaTunnel release files must not be redistributed, repackaged, modified, re-uploaded, or mirrored unless:
 
 1. The corresponding release notes explicitly allow redistribution, or
 2. Written permission has been provided by the NovaTunnel project.
 
-This restriction helps reduce the risk of users receiving modified, outdated, or malicious builds presented as official NovaTunnel software.
+This policy is intended to reduce the risk of modified, outdated, or malicious builds being presented as official NovaTunnel software.
 
 ---
 
@@ -308,7 +339,7 @@ This restriction helps reduce the risk of users receiving modified, outdated, or
 
 Not yet. There is currently no public production release.
 
-Official versions will appear in this repository's **Releases** section when ready.
+Official versions will appear in this repository's **Releases** section when they are ready.
 
 </details>
 
@@ -331,7 +362,7 @@ The application source code and internal infrastructure are maintained separatel
 </details>
 
 <details>
-<summary><b>How can I verify an APK?</b></summary>
+<summary><b>How can I verify a downloaded file?</b></summary>
 
 When a SHA-256 checksum is published, calculate the hash of your downloaded file and compare it with the value listed in the corresponding GitHub Release.
 
@@ -340,7 +371,9 @@ When a SHA-256 checksum is published, calculate the hash of your downloaded file
 <details>
 <summary><b>Will NovaTunnel support platforms other than Android?</b></summary>
 
-Yes. NovaTunnel is planned as a multi-platform project. Android is currently the active development target, while Windows, iOS, macOS, and Linux are planned.
+Yes. NovaTunnel is planned as a multi-platform project.
+
+Android is currently the active development target, while Windows, iOS, macOS, and Linux are planned.
 
 </details>
 
@@ -348,7 +381,9 @@ Yes. NovaTunnel is planned as a multi-platform project. Android is currently the
 
 <div align="center">
 
-## 🛡️ NovaTunnel
+<img src="assets/novatunnel-logo.png" width="100" alt="NovaTunnel">
+
+## NovaTunnel
 
 **Secure connections. Simple experience.**
 
