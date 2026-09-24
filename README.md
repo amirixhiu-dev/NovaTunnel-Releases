@@ -1,5 +1,3 @@
-# NovaTunnel-Releases
-Official release downloads for NovaTunnel VPN
 # NovaTunnel Releases
 
 Official release repository for **NovaTunnel VPN**.
