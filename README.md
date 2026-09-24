@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://nova-bot.de5.net/">
-  <img src="assets/novatunnel-logo.png" width="180" alt="NovaTunnel Logo">
+  <img src="assets/novatunnel-logo.png" width="190" alt="NovaTunnel Logo">
 </a>
 
 # NovaTunnel
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://nova-bot.de5.net/">
-    <img src="assets/novatunnel-banner.png" width="720" alt="NovaTunnel VPN">
+    <img src="assets/novatunnel-poster.jpg" width="100%" alt="NovaTunnel VPN Poster">
   </a>
 </p>
 
@@ -53,6 +53,10 @@ This repository is the **official public distribution hub** for NovaTunnel relea
 > [!IMPORTANT]
 > This repository contains **release artifacts only**.  
 > The NovaTunnel application source code, backend services, infrastructure, deployment configuration, and internal development tooling are maintained separately and are not included here.
+
+<p align="center">
+  <img src="assets/novatunnel-brand-card.png" width="680" alt="NovaTunnel Brand">
+</p>
 
 ---
 
@@ -172,18 +176,6 @@ shasum -a 256 NovaTunnel.apk
 ```
 
 Compare the calculated value with the SHA-256 checksum published in the corresponding GitHub Release.
-
-Example:
-
-```text
-Expected:
-4f8c...example...9a21
-
-Calculated:
-4f8c...example...9a21
-
-MATCH ✅
-```
 
 > [!NOTE]
 > A matching checksum confirms **file integrity**.
@@ -381,7 +373,7 @@ Android is currently the active development target, while Windows, iOS, macOS, a
 
 <div align="center">
 
-<img src="assets/novatunnel-logo.png" width="100" alt="NovaTunnel">
+<img src="assets/novatunnel-logo.png" width="96" alt="NovaTunnel Logo">
 
 ## NovaTunnel
 
