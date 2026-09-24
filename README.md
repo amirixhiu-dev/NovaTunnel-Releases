@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://nova-bot.de5.net/">
-  <img src="assets/novatunnel-logo.png" width="190" alt="NovaTunnel Logo">
+  <img src="novatunnel-logo.png" width="190" alt="NovaTunnel Logo">
 </a>
 
 # NovaTunnel
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://nova-bot.de5.net/">
-    <img src="assets/novatunnel-poster.jpg" width="100%" alt="NovaTunnel VPN Poster">
+    <img src="novatunnel-poster.jpg" width="100%" alt="NovaTunnel VPN Poster">
   </a>
 </p>
 
@@ -55,7 +55,7 @@ This repository is the **official public distribution hub** for NovaTunnel relea
 > The NovaTunnel application source code, backend services, infrastructure, deployment configuration, and internal development tooling are maintained separately and are not included here.
 
 <p align="center">
-  <img src="assets/novatunnel-brand-card.png" width="680" alt="NovaTunnel Brand">
+  <img src="novatunnel-brand-card.png" width="680" alt="NovaTunnel Brand">
 </p>
 
 ---
@@ -373,7 +373,7 @@ Android is currently the active development target, while Windows, iOS, macOS, a
 
 <div align="center">
 
-<img src="assets/novatunnel-logo.png" width="96" alt="NovaTunnel Logo">
+<img src="novatunnel-logo.png" width="96" alt="NovaTunnel Logo">
 
 ## NovaTunnel
 
